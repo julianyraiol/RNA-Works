@@ -4,7 +4,7 @@
 
 Repositório que contém o material produzido durante a disciplina de Redes Neurais Artificiais.
 
-### Instação
+### Instalação
 Este projeto requer **Python 3.x** e as seguintes bibliotecas de Python instaladas:
 
 - [NumPy](http://www.numpy.org/)
