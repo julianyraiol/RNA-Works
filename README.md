@@ -1,6 +1,8 @@
 # RNA-Works
 Repositório para a disciplina de Redes Neurais Artificiais 
 
+![neil](https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif)
+
 ### Instação
 Este projeto requer **Python 3.x** e as seguintes bibliotecas de Python instaladas:
 
