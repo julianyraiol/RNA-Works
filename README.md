@@ -20,7 +20,7 @@ Se você não possui Python instalado ainda, é recomendado que você instale a 
 
 ### Código
 
-As análises realizadas durante a disciplina, estão separadas por projetos. Todos esses estão em arquivos do tipo `.ipynb` no diretório `develop`. Os datasets estão no diretório `data`. No projeto 4, há outros arquivos que estão separados em `analise` e `modelo´. 
+As análises realizadas durante a disciplina, estão separadas por projetos. Todos esses estão em arquivos do tipo `.ipynb` no diretório `develop`. Os datasets estão no diretório `data`. No projeto 4, há outros arquivos que estão separados em `analise` e `modelo`. 
 
 ### Executar
 
