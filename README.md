@@ -38,9 +38,9 @@ jupyter notebook note.ipynb
 
 Outros repositórios que possuem com conteúdo de ciência dos dados.
 
-- [datascience-pizza] (https://github.com/leportella/datascience-pizza)
-- [Siraj Raval] https://github.com/llSourcell)
-- [curso-machine-learning] (https://github.com/elloa/ocean-machineLearning2018)
-- [Serenta de amor] (https://github.com/okfn-brasil/serenata-de-amor)
+- [datascience-pizza](https://github.com/leportella/datascience-pizza)
+- [Siraj Raval](https://github.com/llSourcell)
+- [curso-machine-learning](https://github.com/elloa/ocean-machineLearning2018)
+- [Serenta de amor](https://github.com/okfn-brasil/serenata-de-amor)
 
 
