@@ -24,14 +24,12 @@ As análises realizadas durante a disciplina, estão separadas por projetos. Tod
 
 ### Executar
 
-No seu terminal, vá até o diretório do projeto  `/` e o seguinte comando:
+No seu terminal, execute os seguintes comandos:
 
 ```bash
-ipython notebook note.ipynb
-```  
-ou
-```bash
-jupyter notebook note.ipynb
+$ git clone https://github.com/julianyraiol/RNA-Works.git
+$ cd RNA-Works
+$ jupyter notebook
 ```
 
 ## Extras
@@ -43,4 +41,10 @@ Outros repositórios que possuem com conteúdo de ciência dos dados.
 - [curso-machine-learning](https://github.com/elloa/ocean-machineLearning2018)
 - [Serenta de amor](https://github.com/okfn-brasil/serenata-de-amor)
 
+
+## Equipe
+
+- [Juliany Raiol](https://github.com/julianyraiol)
+- [Raí Soledade](https://github.com/raisantos)
+- [Richardson Souza](https://github.com/richardson-souza)
 
