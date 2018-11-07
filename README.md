@@ -45,6 +45,7 @@ Outros repositórios que possuem com conteúdo de ciência dos dados.
 ## Equipe
 
 - [Juliany Raiol](https://github.com/julianyraiol)
+    <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-512.png" width="25">
 - [Raí Soledade](https://github.com/raisantos)
 - [Richardson Souza](https://github.com/richardson-souza)
 
