@@ -44,8 +44,7 @@ Outros repositórios que possuem com conteúdo de ciência dos dados.
 
 ## Equipe
 
-- [Juliany Raiol](https://github.com/julianyraiol)
-    <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-512.png" width="25">
-- [Raí Soledade](https://github.com/raisantos)
-- [Richardson Souza](https://github.com/richardson-souza)
+- [Juliany Raiol](https://github.com/julianyraiol) - ([Twitter](https://twitter.com/julianyraiol), [Linkedin](https://www.linkedin.com/in/julianyraiol/))
+- [Raí Soledade](https://github.com/raisantos) - ([Linkedin](https://www.linkedin.com/in/ra%C3%AD-santos-da-soledade-b2ab03110/))
+- [Richardson Souza](https://github.com/richardson-souza) - ([Twitter](https://twitter.com/_richardson_), [Linkedin](https://www.linkedin.com/in/richardson-souza-00752340/))
 
