@@ -1064,7 +1064,7 @@ plt.show()
 ```
 
 
-![png](output_36_0.png)
+![png](histograma.png)
 
 
 A distribuição dos valores em um conjunto de dados está associada ao valor da obliquidade. 
@@ -1111,7 +1111,7 @@ plt.show()
 ```
 
 
-![png](output_39_0.png)
+![png](boxplot.png)
 
 
 ### 4.3. SCATTER PLOT
@@ -1142,7 +1142,7 @@ plt.show()
 ```
 
 
-![png](output_41_0.png)
+![png](scatter.png)
 
 
 Os gráficos de dispersão referem-se como os dados estão dispostos. É também possível visualizar a correlação 
@@ -1189,7 +1189,7 @@ plt.show()
 ```
 
 
-![png](output_46_0.png)
+![png](correlation.png)
 
 
 Como os dados são derivados a partir medições de área e perimetro de cada semente, já é esperado que haja uma correlação entre os atributos de entrada Area, Perimeter, Length, Width e Groove.
