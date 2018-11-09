@@ -4,6 +4,8 @@
 
 Repositório que contém o material produzido durante a disciplina de Redes Neurais Artificiais.
 
+Orientadora: [Prof. Dra. Elloá B. Guedes](https://github.com/elloa)
+
 ### Instalação
 Este projeto requer **Python 3.+** e as seguintes bibliotecas de Python instaladas:
 
