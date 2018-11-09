@@ -83,7 +83,7 @@ df.head(10) # Imprime as 10 primeiras linhas do conjunto de dados
 
 <div>
 
-<table border="1" class="dataframe">
+<table  class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -224,7 +224,7 @@ df.tail() # Imprime as 5 últimas linhas do conjunto de dados
 
 <div>
 
-<table border="1" class="dataframe">
+<table  class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -408,7 +408,7 @@ kama.describe()
 
 <div>
 
-<table border="1" class="dataframe">
+<table  class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -529,7 +529,7 @@ rosa.describe()
 
 <div>
 
-<table border="1" class="dataframe">
+<table class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -650,7 +650,7 @@ canadian.describe()
 
 <div>
 
-<table border="1" class="dataframe">
+<table class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -781,7 +781,7 @@ gb.mean()
 
 <div>
 
-<table border="1" class="dataframe">
+<table class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -833,7 +833,7 @@ gb.median()
 
 <div>
 
-<table border="1" class="dataframe">
+<table class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -884,7 +884,7 @@ gb.std()
 
 
 <div>
-<table border="1" class="dataframe">
+<table class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
