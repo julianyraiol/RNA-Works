@@ -17,7 +17,7 @@ tipo e, usando uma técnica particular de raio-X, coletou medidas geométricas d
 sementes, a citar: área, perímetro, compactude, comprimento, largura, coeficiente de
 assimetria e comprimento do sulco da semente.
 
-
+<a href="https://archive.ics.uci.edu/ml/datasets/seeds"> Repositório do dataset </a>
 
 ```python
 # Módulos utilizados no projeto
