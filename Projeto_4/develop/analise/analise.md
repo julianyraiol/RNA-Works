@@ -18,6 +18,8 @@ tipo e, usando uma técnica particular de raio-X, coletou medidas geométricas d
 sementes, a citar: área, perímetro, compactude, comprimento, largura, coeficiente de
 assimetria e comprimento do sulco da semente.
 
+<a href="https://archive.ics.uci.edu/ml/datasets/seeds"> Repositório do dataset </a>
+
 
 ```python
 # Módulos utilizados no projeto
@@ -25,6 +27,9 @@ assimetria e comprimento do sulco da semente.
 import pandas as pd
 from pandas.tools.plotting import parallel_coordinates
 import matplotlib.pyplot as plt
+import seaborn as sns
+
+sns.set()
 ```
 
 ## 1. Carregando o conjunto de dados
@@ -77,19 +82,7 @@ df.head(10) # Imprime as 10 primeiras linhas do conjunto de dados
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -230,19 +223,7 @@ df.tail() # Imprime as 5 últimas linhas do conjunto de dados
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -426,19 +407,7 @@ kama.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -559,19 +528,7 @@ rosa.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -692,19 +649,7 @@ canadian.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -835,19 +780,7 @@ gb.mean()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -899,19 +832,7 @@ gb.median()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -963,19 +884,6 @@ gb.std()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1064,7 +972,7 @@ plt.show()
 ```
 
 
-![png](histograma.png)
+![png](analise_files/analise_36_0.png)
 
 
 A distribuição dos valores em um conjunto de dados está associada ao valor da obliquidade. 
@@ -1111,7 +1019,7 @@ plt.show()
 ```
 
 
-![png](boxplot.png)
+![png](analise_files/analise_39_0.png)
 
 
 ### 4.3. SCATTER PLOT
@@ -1142,7 +1050,7 @@ plt.show()
 ```
 
 
-![png](scatter.png)
+![png](analise_files/analise_41_0.png)
 
 
 Os gráficos de dispersão referem-se como os dados estão dispostos. É também possível visualizar a correlação 
@@ -1173,7 +1081,7 @@ plt.show()
 ```
 
 
-![png](output_43_0.png)
+![png](analise_files/analise_43_0.png)
 
 
 Nesse esses é possível visualizar agrupamentos numa mesma região do gráfico.   
@@ -1189,8 +1097,7 @@ plt.show()
 ```
 
 
-![png](correlation.png)
+![png](analise_files/analise_46_0.png)
 
 
 Como os dados são derivados a partir medições de área e perimetro de cada semente, já é esperado que haja uma correlação entre os atributos de entrada Area, Perimeter, Length, Width e Groove.
-
