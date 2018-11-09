@@ -13,7 +13,6 @@ Este projeto requer **Python 3.+** e as seguintes bibliotecas de Python instalad
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
-- [scipy](https://www.scipy.org/)
 
 
 Você também precisa ter o [Jupyter Notebook](http://ipython.org/notebook.html) para manipular e visualizar as análises disponibilizadas.  
