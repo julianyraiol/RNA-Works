@@ -1546,7 +1546,7 @@ results.loc[results['mean_train_score']==max(results['mean_train_score'])]
 
 <div>
 
-<table border="1" class="dataframe">
+<table class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
